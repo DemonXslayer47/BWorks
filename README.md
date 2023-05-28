@@ -41,7 +41,8 @@ It includes the following data:
 4.)The next step is delivery tracking.
 
 5.)Here comes the main step where the one who took the donation or who brought the vehicle should be asked whether they are interested to share there information and images to the one who donated via email.
-Note: Here there may be manhy privacy issues , so they need to be asked whether it is okay or not, idf yes how much information need to be sent to the donater.
+
+**Note**: Here there may be many privacy issues , so they need to be asked whether it is okay or not, if yes how much information need to be sent to the donater.
 
 # Programs Provided:
 BWorks also provide kids to learn and gain knowledge about the Bikes and Bicycles and can get a free chance to earn a cycle or bike. So they can also register to the classes through the web application.
